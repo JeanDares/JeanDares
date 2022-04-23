@@ -1,1 +1,1 @@
-< h1 > Salve, salve! Eu sou Jean Borges Dares       🖐</h1>
+Olá, eu sou Jean Borges Dares 🖐   
