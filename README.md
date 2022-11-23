@@ -1,4 +1,10 @@
-Olá, eu sou Jean Borges Dares 🖐   
+Olá, eu sou Jean Borges Dares 🖐 
+
+Estou em uma fase de recomeço e redescoberta profissional, busco uma oportunidade onde eu possa crescer e investir profissionalmente. Uma das vantagens em ter atuado em diversas áreas, foi a possibilidade de desenvolver e aprimorar soft skills que tenho certeza que serão valiosas não só na área de tecnologia, mas em qualquer âmbito profissional.
+
+Tenho afinidade com a área de tecnologia pois consigo aplicar soluções efetivas para diversos tipos de problemas que encontro, soluções nas quais estão alinhadas com boas práticas e boa lógica aplicada.
+
+Meu objetivo é conseguir minha primeira oportunidade na área de desenvolvimento para assim continuar evoluindo e investindo cada vez mais no meu conhecimento.
 
 
 ## Ferramentas e Tecnologias
