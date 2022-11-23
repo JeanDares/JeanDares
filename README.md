@@ -20,6 +20,6 @@ Olá, eu sou Jean Borges Dares 🖐
 </div>
 
 
-![Snake animation](https://github.com/JeanDares/JeanDares/blob/output/github-contribution-grid-snake.svg)
-  
+
+  ![Snake animation](https://github.com/JeanDares/JeanDares/blob/output/github-contribution-grid-snake.svg)
   
