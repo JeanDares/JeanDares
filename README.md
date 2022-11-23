@@ -21,5 +21,5 @@ Olá, eu sou Jean Borges Dares 🖐
 
 
 
-  ![Snake animation](https://github.com/JeanDares/JeanDares/blob/output/github-contribution-grid-snake.svg)
+
   
